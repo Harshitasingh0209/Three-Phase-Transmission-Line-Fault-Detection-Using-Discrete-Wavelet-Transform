@@ -31,10 +31,28 @@ The MATLAB script used for wavelet-based fault detection is available here:
 ## Circuit Diagram
 
 The transmission-line model and circuit diagram will be added here.
-(Circuit.png)
+![Circuit Diagram](Circuit.png)
+
 ## Results
 
 The simulation results and fault-current waveforms will be added here.
+## Results
+
+### Result 1
+
+![Result 1](Result(1).png)
+
+### Result 2
+
+![Result Figure 1](Result_Figure1.png)
+
+### Result 3
+
+![Result Figure 2](Result_Figure2.png)
+
+### Result 4
+
+![Result Figure 3](Result_Figure3.png)
 
 ## Methodology
 
